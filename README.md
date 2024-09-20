@@ -1,5 +1,3 @@
-https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExazE5eHVwbHFuZmFyaWk1a3l0bjhnc2VqN2x1aXdkZHh0aW5jdzdnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UtMygJsIRb8dXfUpPK/giphy.gif
-
 # Let-s-Bee-Friends-SMP
 
 Let’s Bee Friends SMP Alpha 0.1
