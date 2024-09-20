@@ -24,8 +24,6 @@ Features:
 
 -We have big ambitions and planning to constantly update and support “Let’s Bee Friends SMP” for a very long time. 
 
-We hope you will have a great time and remember that it’s only the beginning of something huge.
-
 Rules:
 
 -Treat all members with respect and friendliness. Harassment, bullying, or any kind of toxicity is absolutely not allowed
@@ -35,3 +33,5 @@ Rules:
 -Clean Language: Use appropriate language in all channels. Excessive swearing or garbage content is not permitted
 
 -No Spam: Do not spam messages, emojis, or links in any of the channels
+
+We hope you will have a great time and remember that it’s only the beginning of something huge.
