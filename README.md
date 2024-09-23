@@ -16,7 +16,7 @@ Simple Voice Chat for 1.20.4 Forge - https://modrinth.com/plugin/simple-voice-ch
 
 Features:
 
--We stick to vanilla Minecraft experience, but in the near future we plan on adding some additional functionality. But don’t worry, we will keep it ass vanilla as possible. 
+-We stick to vanilla Minecraft experience, but in the near future we plan on adding some additional functionality. But don’t worry, we will keep it as vanilla as possible. 
 
 -Fast servers that will hold heavy load even on the friday evenings 😏. 
 
